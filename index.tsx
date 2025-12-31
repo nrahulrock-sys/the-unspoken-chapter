@@ -85,8 +85,6 @@ const CONFIG = {
             "I wish you a beautiful year ahead and a beautiful life beyond this moment.",
             "Remember the date 02-11-2030 appati varaku naa nunchi elanti disturbance undadhu neeku, ninnu appati varaku wait cheyyamani cheppatledhu in the meanwhile be how ever you want kaani aaroju nenu anukundhi chesthunnanu i can hope for a better future ani nannu nenu prove cheskuntey ne vasthanu just to say that i loved you, i've been loving you and ill love you ",
             "Love you Infinite sri",
-"Aur kya hi kahu, bas itna yaqeen hai,
-Yeh waqt bhi guzar jaayega, jaise baaki sab guzra.",
             "Bye."
         ]
     }
