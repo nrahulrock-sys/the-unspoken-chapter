@@ -5,8 +5,8 @@
  */
 
 const CONFIG = {
-    bgmUrl: "public/audio/Finding Her (Jana Mere Sawalon Ka Manzar Tu)  Kushagra  Vanshika  Bharath  Karan Maini UR Debut - UR DEBUT.mp3",
-    voiceUrl: "public/audio/Dean Lewis - Memories (Official Video) - DeanLewisVEVO.mp3",
+    bgmUrl: "/audio/Finding Her (Jana Mere Sawalon Ka Manzar Tu)  Kushagra  Vanshika  Bharath  Karan Maini UR Debut - UR DEBUT.mp3",
+    voiceUrl: "/audio/Dean Lewis - Memories (Official Video) - DeanLewisVEVO.mp3",
     memories: [
         {
             img: "/college/Untitled%20design.jpeg",
@@ -14,19 +14,19 @@ const CONFIG = {
         },
 
         {
-            img: "public/college/Untitled design (1).jpeg",
+            img: "/college/Untitled design (1).jpeg",
             text: "In a few quiet moments shared with you, I found where I belong."
         },
         {
-            img: "public/college/Untitled design (2).jpeg",
+            img: "/college/Untitled design (2).jpeg",
             text: "Counting moments, not hours."
         },
         {
-            img: "public/college/Untitled design (3).jpeg",
+            img: "/college/Untitled design (3).jpeg",
             text: "Every evening meeting was just a masterpiece with you."
         },
         {
-            img: "public/college/Untitled design (4).jpeg",
+            img: "/college/Untitled design (4).jpeg",
             text: "For the thousands of steps were you stood by me "
         }
     ],
