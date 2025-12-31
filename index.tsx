@@ -5,11 +5,11 @@
  */
 
 const CONFIG = {
-    bgmUrl: "public/songs/Finding Her (Jana Mere Sawalon Ka Manzar Tu)  Kushagra  Vanshika  Bharath  Karan Maini UR Debut - UR DEBUT.mp3",
-    voiceUrl: "public/songs/Dean Lewis - Memories (Official Video) - DeanLewisVEVO.mp3",
+    bgmUrl: "public/audio/Finding Her (Jana Mere Sawalon Ka Manzar Tu)  Kushagra  Vanshika  Bharath  Karan Maini UR Debut - UR DEBUT.mp3",
+    voiceUrl: "public/audio/Dean Lewis - Memories (Official Video) - DeanLewisVEVO.mp3",
     memories: [
         {
-            img: "public/college/Untitled design.jpeg",
+            img: "/college/Untitled%20design.jpeg",
             text: "Where the world first started to feel different."
         },
 
