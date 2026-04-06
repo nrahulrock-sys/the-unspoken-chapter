@@ -1,5 +1,6 @@
 
 import React, { useState, useEffect, useRef, useCallback } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { AppSection } from './types';
 import { MEMORIES, ASSETS } from './constants';
 import Welcome from './components/Welcome';
@@ -76,6 +77,7 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-[#050505] text-neutral-100 overflow-hidden px-4 selection:bg-rose-500/30">
+      <Analytics />
       <audio ref={bgmRef} src={ASSETS.BGM_URL} loop />
       <audio ref={letterAudioRef} src={ASSETS.LETTER_VOICE_URL} />
 
